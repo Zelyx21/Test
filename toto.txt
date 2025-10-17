@@ -1,4 +1,8 @@
 yoyoyo
 regregrgerger
+<<<<<<< HEAD
 wzexrcdfgvbjhn
 dxtfcgfvhgv
+=======
+tgvjnkytfytfyttc
+>>>>>>> 1cb7d4d644bf19d58e01053ea940d3f8ada7a702
